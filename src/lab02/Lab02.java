@@ -17,6 +17,7 @@ public class Lab02 {
     public static void main(String[] args) {
         // TODO code application logic here
         String text = "Robyn was here!";
+        System.out.println(text);
     }
     
 }
